@@ -1,0 +1,21 @@
+{
+  "name": "DPNT",
+  "version": "0.0.1",
+  "description": "Docker, NodeJS, PostgreSQL and TypeScript CRUD api/starter-app-api",
+  "main": "server.js",
+  "repository": "https://github.com/cbstodd/DPNT.git",
+  "author": "https://colinstodd.com",
+  "license": "Apache-2.0",
+  "private": false,
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.4",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
